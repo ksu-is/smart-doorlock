@@ -11,7 +11,10 @@ A WLAN connected, servo-driven deadbolt actuator with IP camera stream that can 
 For more information on how to connect raspberry pi with a servo motor click [here.](https://circuitdigest.com/microcontroller-projects/raspberry-pi-servo-motor-control) 
 
 # Future Features
-Creating a multi-user feature, that allows multiple users to have access from same entry point and lock. Adding lock dection. Adding lock counter.
+Creating a multi-user feature, that allows multiple users to have access from same entry point and lock. Adding lock detection. Adding a lock counter.
+
+
+
 
 ## Installations
 
