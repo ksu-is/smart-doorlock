@@ -142,3 +142,4 @@ if __name__ == '__main__':
  #   my_cmd = "sudo service motion stop"
   #  os.system(my_cmd)
 #GPIO.cleanup()
+

@@ -12,5 +12,7 @@
 - [x] Must set up rasberry pi monday to exactly determine when and where to insert prompts.
 - [x] Complete Project Roadmap File 
 - [x] Search For Related Project On Github to help brainstorm
- 
+ - [x] Aquired rasberry pi
+- [x] Input code to prompt for USERNAME  
+- [x] Ran new code on rasberry
 
