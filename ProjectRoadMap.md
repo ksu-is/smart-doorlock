@@ -15,4 +15,7 @@
  - [x] Aquired rasberry pi
 - [x] Input code to prompt for USERNAME  
 - [x] Ran new code on rasberry
+- [x] Created a user friendly greeting printing holders name
+- [x]Created a salutation showing user's  name
+- [x]Created a variable called user_name to collect different key holders names
 
