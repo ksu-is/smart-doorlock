@@ -129,7 +129,7 @@ def unlock():
 print("End Block")
 with open('lock_status.txt','a+') as f:
       pass
-
+print("Goodbye" + user_name + "!")
 GPIO.output(servo, False)
 pwm.ChangeDutyCycle(0)
 pwm.stop()
