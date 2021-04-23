@@ -45,6 +45,8 @@ def SetAngle(angle, servo):
     pwm.stop()
     GPIO.cleanup()
 
+user_name = input()
+print("greetings" + user_name+"!")
 last_angle = 50
 
 hostname = commands.getoutput('hostname -I')
