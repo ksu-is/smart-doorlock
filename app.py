@@ -50,7 +50,8 @@ last_angle = 50
 hostname = commands.getoutput('hostname -I')
 web_cam_stream_url = 'http://'+hostname.strip()+':8081/'
 homepage = 'http://'+hostname.strip()+'/'
-
+#Manage servo throughout process.
+#Create login/ password saver here.
 @app.route('/')
 def video():
     global last_angle
@@ -63,7 +64,7 @@ def video():
     print("in root node")
     return render_template('homepage.html', status = status, webcam_url = web_cam_stream_url)
     
-
+#Flash homescreen logo, and loading screen.
 
 @app.route('/lock')
 def lock():
