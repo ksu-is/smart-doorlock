@@ -18,4 +18,4 @@
 - [x] Created a user friendly greeting printing holders name
 - [x]Created a salutation showing user's  name
 - [x]Created a variable called user_name to collect different key holders names
-
+- [x] created and submitted Splash page
